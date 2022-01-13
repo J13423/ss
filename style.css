@@ -1,0 +1,18 @@
+body
+{
+	background: lightblue;
+    text-align: right;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width:50%;
+        height:100%;
+	}
+
+
+
